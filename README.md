@@ -30,7 +30,6 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 |Proyecto | Alumno(s)|
 |-----------------------------------------------------------------------------------| ------------------------------|
-| [Proyecto](https://github.com/CompiTrabajo2DAW/RETROTECA)                         |Alarcón Fortes Manuel |
 | [Retroteca](https://github.com/CompiTrabajo2DAW/RETROTECA)                         |Ávila Rosas Miguel Ángel<br>Alarcón Fortes Manuel |
 | [FoodFlow](https://github.com/Hisui02/FoodFlow)                                                                      |Barnestein Martos Alejandro <br/> Álvaro Leiva García |
 | [Nidhu](https://github.com/Sunderfal/Nidhu)                                       |Sofía Béjar Rimoldi <br>Sergio Gámez Ortega |
